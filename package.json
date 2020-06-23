@@ -1,0 +1,11 @@
+{
+  "name": "add-likes-app",
+  "version": "1.0.0",
+  "description": "app that add likes to your website",
+  "main": "index.js",
+  "scripts": {
+    "test": "build"
+  },
+  "author": "Nikita Novik",
+  "license": "ISC"
+}
